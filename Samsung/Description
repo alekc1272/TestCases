@@ -1,0 +1,8 @@
+Data Description:
+There is data from an accelerometer (a_x, a_y, a_z) and a gyroscope (g_x, g_y, g_z) with a frequency of 10 Hz, with marked periods of meals (target).
+Two people ate for about 3 weeks and marked the time intervals (respectively, the markup is binary), during which they ate.
+
+Tasks:
+1. You Should explore data.
+2. Train a model that will predict food gaps.
+3. Calculate Precision, Recall, F1 metrics for the resulting model (can be considered pointwise, you can receive the events of receptions).
